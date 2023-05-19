@@ -46,7 +46,7 @@ Didn't learn anything in this challange
 
 ## Author
 
-- Website - [Williams Divine](https://www.your-site.com)
+- Website - [Williams-Divine](https://williams-divine.github.io/qr-code/)
 - Frontend Mentor - [@Williams-Divine](https://www.frontendmentor.io/profile/Williams-Divine)
 - Twitter - [@WilliamsDivin17](https://www.twitter.com/WilliamsDivin17)
 
